@@ -1225,15 +1225,18 @@ ul {
     background-color: blue;
     transform: translateX(50%);
   }
+  
   25% {
     background-color: #3c3a39;
     transform: translateY(50%);
   }
+  
   75% {
     background-color: goldenrod;
     transform: translateX(0%);
     transform: matrix(4, 0, 1.25, 4, 100, 0);
   }
+  
   100% {
     background-color: green;
     transform: translateY(0%);
