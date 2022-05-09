@@ -8,7 +8,7 @@ to implement and run this project you should have the following prerequisites
 ## Prerequisites
 - Text editor,
 - browser like crome.
-- If you have the above mentioned  prerequistes you can download the project to your local machine from text editor bu using the following steps:
+> If you have the above mentioned  prerequistes you can download the project to your local machine from text editor by using the following steps:
  - Clone Git repository: URL (https://github.com/haftamudesta/portfolio) 
  - Open in your local machine
 ## Author
