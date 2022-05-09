@@ -1,6 +1,6 @@
 # Project Name:portfolio
-[link is here](https://haftamudesta.github.io/desta451616-hotmail.com.github.io/portfolio.html)
 This is my first project at Microverse.
+- [link is here](https://haftamudesta.github.io/desta451616-hotmail.com.github.io/portfolio.html)
 ## Built With
 - HTML
 - CSS
