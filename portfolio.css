@@ -438,7 +438,7 @@ ul {
   margin-top: 6px;
 }
 
-.profesional {
+.profesional:hover {
   border: 2px solid blue;
 }
 
